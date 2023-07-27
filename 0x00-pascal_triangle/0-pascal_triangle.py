@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" This module documents the python implementation of the pascals triangle """
 
 
 def pascal_triangle(n):
