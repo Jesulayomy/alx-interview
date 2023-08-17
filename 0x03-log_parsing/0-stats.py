@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """ This module parses a log (or log file) and returns data from the lines """
 import re
 import signal
