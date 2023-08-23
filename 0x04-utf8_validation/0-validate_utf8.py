@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """ This module validates a stream of utf8 data """
 from typing import List
 
